@@ -1,2 +1,4 @@
 # Lab211
-Lab for java programming skills
+This is a repo of all source code about java when i studied in my second year at FPT university
+
+
