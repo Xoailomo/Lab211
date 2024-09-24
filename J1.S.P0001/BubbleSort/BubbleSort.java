@@ -16,11 +16,6 @@ public class BubbleSort {
         int n;
         while(true){
             String inp=sc.nextLine().trim();
-            if(inp.startsWith("0") && inp.length()>1){
-                System.out.println("Input must not have leading zeros");
-                System.out.println("pls enter positive integer");
-                continue;
-            }
             try{
                 n = Integer.parseInt(inp);
                 if(n > 0){
