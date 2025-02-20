@@ -1,4 +1,4 @@
-# Lab211 - Lecturer: Nguyen Thi Nang.
+# Lab211
 UPDATING...
 
 This is a repo of all source code about Java when I studied in my second year at FPT University.
